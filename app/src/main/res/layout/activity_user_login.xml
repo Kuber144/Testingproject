@@ -39,11 +39,12 @@
         app:layout_constraintVertical_bias="0.569" />
 
     <Button
+
         android:id="@+id/button4"
-        android:layout_width="wrap_content"
-        android:layout_height="wrap_content"
+        android:layout_width="115dp"
+        android:layout_height="48dp"
         android:backgroundTint="#B90E0A"
-        android:text="Get Cooking!"
+        android:text="Login"
         android:textStyle="bold"
         app:layout_constraintBottom_toBottomOf="parent"
         app:layout_constraintEnd_toEndOf="parent"
@@ -56,6 +57,7 @@
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
         android:textColor="#000080"
+        android:textSize="18dp"
         android:text="Not a user? Sign Up by clicking here."
         app:layout_constraintBottom_toBottomOf="parent"
         app:layout_constraintEnd_toEndOf="parent"
@@ -71,7 +73,7 @@
         android:text="Login"
         android:textColor="#e56717"
         android:textStyle="bold"
-        android:textSize="55dp"
+        android:textSize="75dp"
         app:layout_constraintBottom_toBottomOf="parent"
         app:layout_constraintEnd_toEndOf="parent"
         app:layout_constraintHorizontal_bias="0.498"
